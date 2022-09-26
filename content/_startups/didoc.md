@@ -12,6 +12,7 @@ stats: false
 events:
   - name: end
     date: 2022-03-15
+    comment: Refus de l'Inca du protocole d'envoi d'email
 phases:
   - name: investigation
     start: 2020-01-15
